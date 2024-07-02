@@ -1,3 +1,3 @@
 # laravel-queue
-compsoer install
-php artisan migrate
+1. compsoer install
+2. php artisan migrate
